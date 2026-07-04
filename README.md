@@ -94,11 +94,11 @@ Full key at [github.com/chrisch88dev.gpg](https://github.com/chrisch88dev.gpg) �
 
 ### Contact
 
-`chrisch88@proton.me` · PGP preferred · Key at [chrisch88.dev](https://chrisch88.dev)
+`chris@chrisch88.dev` · PGP preferred · Key at [chrisch88.dev](https://chrisch88.dev)
 
 <p>
-  <a href="mailto:chrisch88@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="ProtonMail" /></a>
-  <a href="https://x.com/chrisch88"><img src="https://img.shields.io/badge/@chrisch88-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:chris@chrisch88.dev"><img src="https://img.shields.io/badge/chris@chrisch88.dev-e5484d?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://x.com/chrisch88dev"><img src="https://img.shields.io/badge/@chrisch88dev-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://chrisch88.dev"><img src="https://img.shields.io/badge/chrisch88.dev-8b5cf6?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
 </p>
 
