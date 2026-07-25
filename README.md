@@ -17,7 +17,7 @@ Based in Denmark. Online as `chrisch88`.
 
 ## What I do
 
-I work in penetration testing and security engineering, finding bugs and attack paths across web apps, services, networks, and software. I also build secure, performant software across the full stack and make the tools and systems I need.
+I work with penetration testing and security engineering, finding bugs and attack paths across web apps, services, networks, and software. I also build secure, performant software across the full stack and make the tools and systems I need.
 
 Most of my work so far has been private. Check the pinned repositories below or **[my project archive](https://chrisch88.dev/projects/)** for current public work.
 
